@@ -1,0 +1,6 @@
+baseURL = 'https://shippoiincho.github.io/'
+theme = "ananke"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+title = 'しっぽいいんちょの作業メモ'
