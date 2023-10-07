@@ -3,4 +3,7 @@ theme = "ananke"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+sectionPagesMenu = 'main'
 title = 'しっぽいいんちょの作業メモ'
+[params]
+mainSections = ['blogs','docs']
