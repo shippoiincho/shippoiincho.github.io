@@ -1,4 +1,4 @@
 +++
-title = 'Docs'
+title = 'Posts'
 date = 2023-10-07T11:51:48+09:00
 +++
