@@ -6,7 +6,8 @@ hasCJKLanguage = true
 sectionPagesMenu = 'main'
 title = 'しっぽいいんちょの作業メモ'
 [params]
-mainSections = ['posts']
+  mainSections = ['posts']
+  recent_posts_number = 99
 [related]
   includeNewer = true
   threshold = 80
